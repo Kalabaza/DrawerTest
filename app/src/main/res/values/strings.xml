@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DrawerTest</string>
+    <!-- Planets array -->
+    <array name="planets">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+        <item>¿Pluton?</item>
+    </array>
+    <!-- Drawer elements -->
+    <string name="drawer_open">Abrir cajón de navegación</string>
+    <string name="drawer_close">Cerrar cajón de navegación</string>
+    <!-- Menu elements -->
+    <string name="action_websearch">Web Search</string>
+    <string name="app_not_available">Lo sentimos, no hay un navegador web disponible</string>
+    <!-- Buttons text -->
+    <string name="popup_button">Menu con Popup</string>
+    <string name="dialog_button">Mostrar Dialogo</string>
+    <string name="alert_button">Dialogo de Emergencia</string>
+    <!-- Popup and Dialogs text -->
+    <string name="toast_message">Mensaje de prueba con Toast</string>
+    <string name="dialog_title">Misiles</string>
+    <string name="dialog_fire">¿Disparar misiles?</string>
+    <string name="alert_title">Borrar almacenamiento USB?</string>
+    <string name="alert_body">¿Se perderan todas las fotos y videos!</string>
+    <string name="fire">Disparar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+</resources>
